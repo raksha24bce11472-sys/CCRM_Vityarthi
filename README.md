@@ -108,3 +108,19 @@ src/edu/ccrm/
  └─ config/     → Singleton & Builder classes
 
  📷 Sample Screenshots
+
+ <img width="689" height="120" alt="Screenshot 2025-09-09 221300" src="https://github.com/user-attachments/assets/c137cd6a-c204-4b5a-ba1d-d10931fc7d0b" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-09 222553" src="https://github.com/user-attachments/assets/ecf7d338-7ea7-4d6f-bdf1-ded9e327e5b2" />
+
+ 
+
+ <img width="1920" height="1080" alt="Screenshot 2025-09-09 221356" src="https://github.com/user-attachments/assets/b58a9c68-8a4b-4636-8005-0c8517f96d6e" />
+
+
+ 
+<img width="735" height="805" alt="Screenshot 2025-09-17 215721" src="https://github.com/user-attachments/assets/1e40d55b-139f-495c-b7d9-a6bc5888f9a0" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-17 221035" src="https://github.com/user-attachments/assets/f3bc9cc4-e549-440f-abef-e9411ab1b1eb" />
+
+
+ <img width="1920" height="1080" alt="Screenshot 2025-09-17 221707" src="https://github.com/user-attachments/assets/1dde0e6b-a2d9-4a43-aa86-e5c2cedffe6a" />
